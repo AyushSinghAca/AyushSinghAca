@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 - I am very dumb for all practical purpose.
-- Got memory and motivation to work,like a Sloths.... 
+- Got memory,like a .... 
 
 <!---
 AyushSinghAca/AyushSinghAca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
