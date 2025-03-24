@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush_Singh
-- 👀 I’m interested in Observational/Computational Astrophysics.
+- 👀 I’m interested in Observational/Computational Astrophysics or cosmology.
 - 🌱 I’m currently learning Computational Astrophysics in Python.
 - 💞️ I’m looking to collaborate on same.
 - 📫 How to reach me ayushacasingh@gmail.com
